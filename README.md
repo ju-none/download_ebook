@@ -1,6 +1,6 @@
 # Download a Ebook (Linux config)
 
-## Download getxbook program
+## Download & Install getxbook program
 ```
 git clone https://aur.archlinux.org/getxbook.git
 sudo pacman -U getxbook*.tar.zst
