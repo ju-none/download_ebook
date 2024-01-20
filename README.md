@@ -1,4 +1,4 @@
-# Download a Ebook (Linux config)
+# Download an Ebook (Linux config)
 
 ## Download & Install getxbook program
 ```
